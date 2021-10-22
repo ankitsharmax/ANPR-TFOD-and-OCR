@@ -14,5 +14,5 @@ Custom object detection model trained using tensorflow object detection module u
 
 <b>PRETRAINED_MODEL_URL</b> = 'http://download.tensorflow.org/models/object_detection/tf2/20200711/ssd_mobilenet_v2_fpnlite_320x320_coco17_tpu-8.tar.gz'
 
-<img src='base_image.jpg' alt='base image for deteciton'>
+<img src='README files/base_image.jpg' alt='base image for deteciton'>
 <img src='README files/image_detection.JPG' alt = 'detected licence plate'>
